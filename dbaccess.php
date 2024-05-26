@@ -33,7 +33,7 @@ try
 		print '<br>';
 		print $rec['info'];
 		print '<br>';
-		print '<add comment by jia>';
+		print 'add comment by jia';
 
 	}
 }
