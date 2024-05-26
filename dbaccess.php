@@ -32,6 +32,8 @@ try
 		print $rec['created_at'];
 		print '<br>';
 		print $rec['info'];
+		print '<br>';
+		print '<add comment by jia>';
 
 	}
 }
