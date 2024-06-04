@@ -42,6 +42,7 @@ Last Access Time<br><br>
 <?php foreach ($rec as $a):?>
         <?=escape1($a)?><br>
 <?php endforeach; ?>
+<br>comment by jia <br>
 </body>
 </html>
 
